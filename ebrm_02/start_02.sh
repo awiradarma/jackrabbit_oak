@@ -1,0 +1,1 @@
+nohup /Users/userid/jboss-eap-6.4/bin/standalone.sh -Djboss.server.base.dir=/Users/userid/ebrm_02 -Djboss.home.dir=/Users/userid/jboss-eap-6.4 -Djboss.socket.binding.port-offset=20000 -Djboss.node.name=ebrm_02 --server-config standalone-ha.xml &
